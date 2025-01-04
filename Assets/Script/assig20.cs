@@ -6,7 +6,7 @@ namespace assig19
 {
     
 
-public class assig19 : MonoBehaviour
+public class assig20 : MonoBehaviour
 {
     // Start is called before the first frame update
     
